@@ -1,3 +1,5 @@
+<img src="CostDivider.svg" alt="Logo" height="200"/>
+
 # CostDivider
 
 ## Description
