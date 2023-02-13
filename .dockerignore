@@ -1,0 +1,9 @@
+.gitignore
+
+DOCKERFILE
+docker-compose.yml
+
+LICENSE
+*.md
+
+CostDivider.svg

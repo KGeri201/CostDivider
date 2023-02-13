@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  costdivider:
+    build: .
+    tty: true
+    container_name: costdivider
+    #restart: always
+    ports:
+      - 8000:8000
+    volumes:
+      - ./data:/var/lib/mysql
+      - ../CostDivider:/usr/src/app
+    #image: 
