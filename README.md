@@ -1,6 +1,6 @@
 # CostDivider
 
-## Decription
+## Description
 
 ## Installation
 
