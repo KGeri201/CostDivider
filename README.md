@@ -3,6 +3,8 @@
 # CostDivider
 
 ## Description
+It is a project heavily inspired by [ihatemoney](https://github.com/spiral-project/ihatemoney).   
+The goal of this project is to create an simple overview of spendings and distribute them between the participants, to make the shared budgeting easier.
 
 ## Installation
 
