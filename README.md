@@ -1,4 +1,4 @@
-<img src="CostDivider.svg" alt="Logo" height="200"/>
+<img src="CostDivider.svg" alt="Logo" height="100"/>
 
 # CostDivider
 
