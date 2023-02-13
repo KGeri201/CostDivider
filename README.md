@@ -7,7 +7,7 @@
 ## Installation
 
 ## Credits
-[KGeri201](https://github.com/KGeri201)
+[KGeri201](https://github.com/KGeri201)  
 [CodeBatYT](https://github.com/CodeBatYT)
 
 ## License
